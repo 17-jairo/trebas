@@ -1,5 +1,6 @@
 import pandas as pd
-import openpyxl
+#import openpyxl
+
 
 trebas = pd.read_excel(r"C:\Users\Jairo\OneDrive\Documentos\Data\Trebas\9. Middleware Technology\Sept 26 -  exercise\TREBAS.xlsx")
 concordia = pd.read_excel(r"C:\Users\Jairo\OneDrive\Documentos\Data\Trebas\9. Middleware Technology\Sept 26 -  exercise\Concordia.xlsx")
